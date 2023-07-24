@@ -1,0 +1,17 @@
+.landing-page {
+    background-color: #1c1c3a;
+    border-radius: 0 0 20px 20px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Plus Jakarta Sans,sans-serif;
+}
+
+.letters {
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(90deg,#d73365 0,#fea063);
+    background-clip: text!important;
+    display: inline-block;
+    position: relative;
+}
